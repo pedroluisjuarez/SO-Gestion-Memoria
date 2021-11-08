@@ -1,6 +1,6 @@
 # Gestion de memoria SO
 
-## Preview del programa
+## Vista imagen en ejecucion
 ![alt tag](https://github.com/pedroluisjuarez/SO-Gestion-Memoria/blob/master/imagenes/img01.PNG)
 
 ## detalles
